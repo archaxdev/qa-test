@@ -26,7 +26,7 @@ Here are the stories for the work:
 * The endpoint should be password protected using `admin` and `p@55w07d`
 * Should completely remove the country from the internal list and subsequent calls to the fetch countries endpoint
 
-### 4. As an admin, I want to be able to reset the database back to it's original state, so that I can quickly recover from any problems that might be introduced when editing.
+### As an admin, I want to be able to reset the database back to it's original state, so that I can quickly recover from any problems that might be introduced when editing.
 
 #### Acceptance Criteria:
 * The endpoint should be password protected using `admin` and `p@55w07d`
